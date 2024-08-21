@@ -1,0 +1,31 @@
+Esclarecimentos Wireframe
+
+Fonte: Bebas Neue
+Imagens e paleta de cores utilizada -> No github
+Icones utilzados: Font awesome
+
+Algumas páginas não implementei o funcionamento no figma por questão de tempo, então vou esclarecer o funcionamento aqui.
+
+GERAL:
+*Todo lugar que tem texto escrito data é pra quando você clickar ali aparecer um menu no qual tem uma lista de dias da semana, horas e etc pra pessoa escolher. Se quem quiser fazer tiver inspirado também pode ser um calendario.
+*As telas de editar são basicamente as mesmas de inserir porque você ta literalmente reinserindo informações então é só repreencher.
+*Onde fala sobre repetição também é feito pra aparecer opções em um dropdown 
+
+AGENDA:
+*Quando você clicka num card de evento com o botao direito tem que aparecer a opção de editar e excluir que vai ser direcionada pras telas de editar e excluir.
+ 
+TAREFAS:
+* Foi inspirado em um aplicativo que chama tweek abre ele 
+e da pra ver o funcionamento
+* Pra simplificar eu coloquei botões pra criar, editar e excluir tarefas e etc.
+* As tarefas tem que aparecer entre aquelas linhas por dia e tem que ser possível arrastar elas de um dia/horário pro outro.
+
+NOVA TAREFA:
+*Aqui é onde ta a parte da IA.
+*Essas palavras com uma setinha são um dropdown de onde a pessoa vai selecionar opções pré existentes e no caso de duração também pode inserir uma personalizada.
+HABITOS:
+*É basicamente uma tabela, em cima tem o dia da semana e o número e do lado esquerdo o nome do  hábito. Ela tem que atualizar automaticamente de acordo com o que estiver preenchido na tela marcada no figma como marcar hábitos. Embaixo existem notas sobre os hábitos marcadas por data (conforme imagem)
+* OBS aquela opção novo hábito embaixo do nome das tarefas não vai existir aquilo é só porque no site que eu usei de inspiração tinha e eu não tinha tempo pra desenvolver tudo isso no figma.
+
+MARCAR HABITOS:
+*A pessoa vai apertar no mais ou no menos de acordo com se ela fez o habito e não e de acordo com o hábito ser bom ou ruim (o usuario vai selecionar isso na hora da criação) deve aparecer uma animação especifica pra isso ou alguma coisinha interessante. A cor do + e do - depende de se é bom fazer mais ou menos, por exemplo: se fosse "parar de fumar" o menos que seria verde.
