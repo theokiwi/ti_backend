@@ -1,0 +1,28 @@
+body{
+    margin:  0 auto;
+    text-decoration: none;
+}
+
+.bothSides{
+    display: grid;
+    grid-template-columns: 0.3fr 2fr 8fr;
+}
+
+.sideHeader{
+    background-color: lightslategrey;
+}
+
+.sideBar{
+    height: 100vh;
+    background-color: red;  
+
+    grid-column-start: 1.5;
+    grid-column-end: 3;
+
+}
+.calendar{
+    height: 100vh;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    background-color: blue;
+}
