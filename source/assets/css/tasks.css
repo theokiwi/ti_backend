@@ -14,7 +14,7 @@ body{
 
 .sideBar{
     height: 100vh;
-    background-color: red;  
+    background-color: red;
 
     grid-column-start: 1.5;
     grid-column-end: 3;
